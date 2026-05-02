@@ -5,7 +5,7 @@ flash drought detection framework (Christian et al. 2019, 2022, 2023),
 applied to Wildlife Management Areas across contrasting climate regimes.
 
 ## Associated Publication
-Ongondo, F. (2026). Flash drought detection and vegetation stress 
+Ong'ondo et al., (2026). Flash drought detection and vegetation stress 
 response in Wildlife Management Areas across contrasting climate 
 regimes using MERRA-2 and Landsat remote sensing.
 *Remote Sensing of Environment* (under review).
