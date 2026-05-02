@@ -63,7 +63,7 @@ shapely
 ## Citation
 If you use this code, please cite:
 
-Ongondo, F. (2026). Flash drought detection and vegetation stress 
+Ongondo et al., (2026). Flash drought detection and vegetation stress 
 response in Wildlife Management Areas. *Remote Sensing of Environment* 
 (under review).
 
